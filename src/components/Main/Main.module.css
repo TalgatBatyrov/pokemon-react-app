@@ -1,0 +1,10 @@
+/* .main {
+    color: green;
+    grid-area: main;
+    background-color: #F2F5C8;
+} */
+
+.pokemonDataWrap {
+    display: flex;
+    flex-wrap: wrap;
+}

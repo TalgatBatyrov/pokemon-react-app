@@ -1,0 +1,21 @@
+.navbar {
+    color: red;
+    grid-area: navbar;
+    background-color: #219F94;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+a.active {
+    color: gold;
+}
+
+.navbar .type {
+    margin-top: 30px;
+}

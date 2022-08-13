@@ -1,0 +1,19 @@
+.selectedPage {
+    font-weight: bold;
+    color: gold;
+    margin: 0 10px;
+    font-size: 20px;
+    background-color: rgb(114, 216, 144);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.page {
+    padding: 5px;
+    margin: 0 5px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: #C1DEAE;
+    color: white;
+    border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+.pokemon {
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+.pokemon img {
+    width: 100px;
+}
+
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,18 @@
+.searchWrapper {
+    position: absolute;
+    overflow: auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+textarea {
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.searchWrapper a {
+    color: #5a6851;
+    text-decoration: none;
+}
